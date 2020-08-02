@@ -1,2 +1,3 @@
 # CIS-106
-A project that I did for my class about a year ago
+A place where I am documenty the projects and assignments I had to do for a class
+in the Spring 2019
